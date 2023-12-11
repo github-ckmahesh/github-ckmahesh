@@ -10,6 +10,6 @@ I'm Mahesh Kumar Chaudhary, a seasoned Data Analyst with 4+ years of experience.
 🔗 Connect: 
 LinkedIn: www.linkedin.com/in/ckmahesh
 Email: mkc2018786@gmail.com
-GitHub: github-ckmahesh/github-ckmahesh
+GitHub: https://github.com/github-ckmahesh
 
 GitHub Let's transform data into insights together! 📊✨
