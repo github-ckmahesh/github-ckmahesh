@@ -2,6 +2,7 @@
 
 **About Me**
 I'm Mahesh Kumar Chaudhary, a seasoned Data Analyst with 4+ years of experience. 
+
 🚀 Skills: Python, SQL, Excel, Power BI 
 🛠️ Expertise: Data manipulation, Dashboarding, SCM, ERP-SAP 
 💼 Current Role: Professional Senior Planner at Kunshan Q-Tech Microelectronics (India) 
